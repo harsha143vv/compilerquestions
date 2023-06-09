@@ -1,0 +1,54 @@
+1.	Implement a C program to perform symbol table operations.
+
+2.	The lexical analyzer should ignore redundant spaces, tabs, and new lines. It should also ignore comments. Although the syntax specification states that identifiers can be arbitrarily long, you may restrict the length to some reasonable value. Develop a lexical Analyzer to identify identifiers, constants, and operators using the C program.
+
+3.	Implement a C program to eliminate left recursion and left factoring from a given CFG.
+
+4.	Write a C program for implementing a Lexical Analyzer to Scan and Count the number of characters, words, and lines in a file
+
+5.	Write a C program to find FIRST and FOLLOW for the predictive parser.
+
+6.	Write a C program.
+a)	To identify whether a given line is a comment or not
+
+b)	To test whether a given identifier is valid or not.
+
+7.	Write a C program for constructing LL (1) parsing.
+
+8.	Write a C program to construct recursive descent parsing.
+
+9.	Write a C program for the Shift Reduce parser stack implementation.
+
+10.	Write a C program to implement operator precedence parsing.
+
+11.	Implement a simple intermediate code generator in the C program, which produces three address code statements for a given input expression.
+
+12.	Write a C program to implement the back end of the compiler.
+
+13.	Write a LEX Program for the Following:
+a)	To Validate the Date of Birth 
+b)	To validate the Mobile number
+
+14.	 Implement the following programs using LEX.
+a)	Write a LEX program to print all the constants in the given C source program file.
+b)	Write a LEX program that adds line numbers to the given C program file and displays the same in the standard output
+
+15.	Implement the following programs using LEX.
+a)	To count the number of Macros defined and header files included in the C program
+b)	To print all HTML tags in the input
+
+16.	Write a LEX Program 
+a)	To Count the Number of Vowels and Consonants in the given input
+b)	To count substrings from Lowercase to Uppercase for the given input.
+
+17.	Write a LEX program to count the number of comment lines in a given C program, eliminate them, and write them into another file.
+
+18.	To implement Lexical Analyzer using LEX or FLEX (FastLexical Analyzer). The program should separate the tokens in the given C program and display them with the appropriate caption.
+
+19.	Implement the following in LEX Program  
+a)	To check whether the given Email ID is Valid or Not 
+b)	To check Whether the given URL is Valid or Not 
+
+20.	Write a LEX program to identify and count positive and negative numbers
+
+21.	Create YACC (or BISON) and LEX specification files to implement a basic calculator which accepts variables and constants of integer and float type.
